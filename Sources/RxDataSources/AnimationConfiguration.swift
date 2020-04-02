@@ -26,4 +26,6 @@
             self.deleteAnimation = deleteAnimation
         }
     }
+#elseif os(OSX)
+
 #endif
